@@ -21,7 +21,7 @@ from multiprocessing import Process
 from threading import Thread
 
 
-TOKEN = '1672250720:AAEJxW2coBgn0tOmUn1x-pX-3aOVG3tuJEI'
+TOKEN = ''
 
 #variables comprobacions
 contestat = False
